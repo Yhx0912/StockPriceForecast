@@ -1,1 +1,2 @@
-# StockPriceForecast
+# 股指价格预测
+#### 主模型model代码正在投稿中，暂未更新。
